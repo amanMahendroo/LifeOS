@@ -1,53 +1,50 @@
-# CONTEXT.md — German Learning
+# CONTEXT.md: Career Optimizer (Main list item 2)
 
-> Stable background. Update only when facts change (goal, deadline, resources, schedule).
+> Purpose: base context for this chat. Paste this + PROGRESS.md + STYLE_GUIDE.md at the start of a fresh chat.
+> Scope: job search strategy ONLY. Relocation logistics (item 1) and German tutoring (item 3) are separate chats; flag overlaps, don't solve them here.
 > Last updated: 2026-10-16
 
-## Purpose of this chat
-Dedicated German tutor thread. These three files (CONTEXT, PROGRESS, STYLE_GUIDE) are the source of truth. Periodically the chat is reset and re-seeded from them to avoid context bloat.
+## Role of Claude
+Career handler: optimize job search strategy, hold me accountable, challenge weak assumptions, draft outreach/CV content, run interview prep, and keep the plan tied to visa timeline and runway.
 
-## Learner profile
-- **Native/high-fluency languages:** English, Hindi (both at a high native level)
-- **Current level:** Holds a Goethe B1 certificate. Self-estimate: closer to B2. Tutor baseline (2026-10-16): solid B2 with C1 elements. See PROGRESS.md.
-- **Skill comfort, strongest to weakest (self-reported):** Lesen > Hören > Schreiben > Sprechen
-- **Learning preference:** Dislikes rote memorization. Prefers learning through repeated exposure and re-encountering mistakes until the correct form feels natural.
+## Profile
+- Software Engineer (L3) at Google Cloud India, 3 years experience.
+- Education: B.Tech Computer Engineering, university rated H+ on anabin (degree recognition is not a blocker).
+- Strong: backend (Java, C++, Python), cloud computing, API management, integrating AI into existing systems.
+- Intermediate: JavaScript / TypeScript (open to full-stack).
+- Target role: Software Engineer / Full-stack Engineer, mid-to-senior (L4-equivalent).
 
-## Goal
-- **Target:** C1 certification, sometime in 2027 (aspiration: early 2027, no hard deadline)
-- **Exam:** Not yet chosen. Candidates: Goethe-Zertifikat C1, TestDaF (TDN 4 across sections), telc C1, ÖSD C1.
-  - Open question: what is the certificate needed for (job, visa, university)? This determines the best exam.
-- **Related context:** Part of a wider plan that includes relocation logistics and career planning (separate threads).
+## Constraints
+- Visa: Chancenkarte, 12 months, starts mid-November 2026 (same day I land in Germany). Hard deadline: ~mid-November 2027, unless converted earlier to a work-based permit.
+- Savings: "decent"; exact runway in months = TBD (to quantify).
+- Location: strictly Munich. Fully remote role elsewhere in Germany is acceptable only if salary meets expectations.
+- Work mode: strongly prefer hybrid (2-3 office days/week).
+- Alone, no dependents moving with me.
+- German: B1 certificate, actual level ~B2, improving actively (details tracked in German Tutor chat).
 
-## Situation
-- **Relocating to Germany around November 2026.** Daily-life immersion will start soon.
-- Partner is German, so there is a natural source of everyday speaking practice.
+## Compensation
+- Reference: L3 SWE at Google Munich would be ~EUR 140k/yr.
+- Floor: EUR 100k+ gross/yr is acceptable.
+- Blue Card salary threshold: TO VERIFY (current-year figures) and check against offers.
 
-## Time budget
-- **Active study:** 3–6 hours per week
-- **Passive input:** up to ~20 hours per week (podcasts, music, reading)
-- Timeline note: early-2027 C1 is ambitious on this active-study budget, but immersion in Germany and heavy passive input make it more plausible than the hours alone suggest. Revisit after the exam is chosen and a Modelltest has been taken.
+## Current job search state (as of 2026-10-16)
+- Recruiters are reluctant toward candidates not yet in Germany; direct application rate is low.
+- Preferred channel: referrals. LinkedIn network of ~850 engineers and recruiters, not yet systematically activated.
+- ~1-2 interview calls/month, stalling because I'm not in person.
+- Open to a stepping-stone job (below target level or working-student type) if it secures a work-based residence permit.
 
-## Current resources and habits
-- Duolingo (low-level relative to B2 goal)
-- Podcast: *Mord auf Ex*
-- Listens actively to German songs
-- Reading log below. Not currently reading a German book. Open to focusing on articles (useful for C1 Lesen: opinion pieces, Nominalstil, Konnektoren).
+## Key strategic insight (working hypothesis)
+The bottleneck is not skills or interest; it is "not in Germany yet." Landing in mid-November converts a stalled pipeline. Goal before landing: build a warm pipeline (referrals, recruiter conversations, interview prep) so that interviews can be scheduled the moment I arrive. Note that December is a slow hiring month; January-February is typically stronger.
 
-### Reading log
-- *Der Vorleser*
-- *Gott: Ein Theaterstück*
-- *5 Dinge: Die Sterbende am meisten bereuen*
-- *Nebel im August*
-- *Tschick*
-- Articles / sources: _TBD_
+## Open questions / to resolve
+1. Quantify savings runway (months of Munich living costs).
+2. Is an internal transfer to Google Munich (or other Google German offices) possible/realistic? Talk to manager/internal mobility.
+3. Verify Blue Card threshold and Chancenkarte rules on work (hours allowed, trial work), with item 1 chat or official sources.
+4. Build target company list for Munich (big tech, scale-ups, enterprise/industrial software, cloud/AI companies).
+5. Interview readiness: coding rounds, system design (L4 level), behavioral; any gaps?
+6. CV/LinkedIn state: German-market format, keywords, "Open to work" and location signals.
 
-## Known constraints and flags
-- Writing and speaking are the weakest skills but also the hardest parts of C1 exams, so they get disproportionate attention.
-- Accuracy (articles, cases, verb position, collocations) lags behind comprehension and vocabulary. This is the main B2 → C1 gap.
-- Hören could not be assessed in a text chat. It is provisionally assumed at about B2 (unverified).
-
-## Open items
-- [ ] Choose exam and target date
-- [ ] Find a reliable method to verify Hören (see PROGRESS.md next steps)
-- [ ] Decide how to practice speaking (in-chat dialogue, voice mode, partner)
-- [ ] Add article sources the learner likes
+## Working rules
+- Verify anything time-sensitive (visa rules, salary thresholds, market conditions) before relying on it.
+- Weekly or as-needed check-ins; frequency flexes.
+- Context is refreshed by pasting updated files into a new chat.
