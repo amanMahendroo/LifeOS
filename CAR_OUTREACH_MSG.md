@@ -1,0 +1,1 @@
+Hi [Name], I’m an SWE on Cloud Networking (3 yrs) moving to Munich in mid-November on the Chancenkarte. I’d love 15 minutes to hear about your team and what you’re working on. No ask beyond that, just trying to understand the landscape before I land. Does next week work?
