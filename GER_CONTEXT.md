@@ -1,10 +1,10 @@
 # CONTEXT.md — German Learning
 
 > Stable background. Update only when facts change (goal, deadline, resources, schedule).
-> Last updated: 2026-10-16 (checkpoint 3)
+> Last updated: 2026-10-20 (checkpoint 4)
 
 ## Purpose of this chat
-Files are also stored on GitHub (links to be added here). Tutor can read shared links but cannot edit them. Learner commits updated versions.
+Files are stored on GitHub (repo: amanMahendroo/LifeOS, files GER_CONTEXT.md, GER_PROGRESS.md, GER_STYLE_GUIDE.md). Tutor can read shared links but cannot edit them. Learner commits updated versions.
 Dedicated German tutor thread. These three files (CONTEXT, PROGRESS, STYLE_GUIDE) are the source of truth. Periodically the chat is reset and re-seeded from them to avoid context bloat.
 
 ## Learner profile
@@ -42,6 +42,8 @@ No fixed weekdays (schedule is unpredictable). Blocks are done whenever time all
 | Lesen | 45 min | One opinion article (Zeit, SZ, DW). Summarise argument and counter-argument in 3–4 sentences. Note 5 expressions in full sentences, not word lists. |
 | Hören | 45 min | 5–10 min of *Mord auf Ex* or news, once without pausing. Written summary, then compare with transcript. *(Later)* |
 | Bonus | up to +90 min | Books, conversation with partner, daily life in Germany. Passive input continues as before. |
+
+**Weekly report card:** `GER_REPORTCARD.md` (+ SVG chart per week). Scores Schreiben and Lesen dimensions on a 1,0 (B1) to 3,0 (C1) scale. Triggered by the learner saying "Zeugniskarte".
 
 **Principles**
 - Repetition without drilling: tasks quietly re-use patterns from the PROGRESS.md mistake table so correct forms become natural.
