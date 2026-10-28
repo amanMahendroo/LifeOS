@@ -1,7 +1,7 @@
 # CONTEXT.md — German Learning
 
 > Stable background. Update only when facts change (goal, deadline, resources, schedule).
-> Last updated: 2026-10-20 (checkpoint 4)
+> Last updated: 2026-10-28 (checkpoint 5)
 
 ## Purpose of this chat
 Files are stored on GitHub (repo: amanMahendroo/LifeOS, files GER_CONTEXT.md, GER_PROGRESS.md, GER_STYLE_GUIDE.md). Tutor can read shared links but cannot edit them. Learner commits updated versions.
@@ -45,6 +45,8 @@ No fixed weekdays (schedule is unpredictable). Blocks are done whenever time all
 
 **Weekly report card:** `GER_REPORTCARD.md` (+ SVG chart per week). Scores Schreiben and Lesen dimensions on a 1,0 (B1) to 3,0 (C1) scale. Triggered by the learner saying "Zeugniskarte".
 
+**Satzbau unit (20–25 min):** break format. Ideas supplied, learner builds only the structure. Triggered by the learner saying "Satzbau".
+
 **Principles**
 - Repetition without drilling: tasks quietly re-use patterns from the PROGRESS.md mistake table so correct forms become natural.
 - Increase length (start 8–10 sentences) once accuracy holds under load.
@@ -54,6 +56,37 @@ No fixed weekdays (schedule is unpredictable). Blocks are done whenever time all
 1. Now to December: build accuracy and argumentation.
 2. January to March: exam-style tasks, first Modelltest, verify Hören.
 3. After that: polish once an exam date is set.
+
+## Writing strategy: managing load (paragraph routine)
+**Diagnosis (see PROGRESS.md "load effect"):** Structures like Konjunktiv II, participles and indirect speech work when ideas are supplied, but break in free writing. The aim is to lower load while writing and to catch errors systematically afterwards.
+
+**Der Absatz in drei Phasen**
+1. **Plan (ca. 5 Min.).** Ein Stichpunkt pro Satz, jeweils mit einer Rolle: These, Grund 1, Beispiel, Grund 2, Gegenargument mit Antwort, Fazit. Erst die Ideen, noch ohne Grammatik. Stichpunkte dürfen auf Englisch oder Hindi sein.
+2. **Schreiben (ca. 15 Min.).** Ein Satz nach dem anderen. **Komplexitätsbudget:** höchstens ein Strukturrisiko pro Satz (Nebensatz, Relativsatz mit Präposition, Konjunktiv II, Passiv). Bei Unsicherheit einfacher formulieren: erst Struktur, dann Eleganz. Fertige Bausteine nutzen (unten).
+3. **Prüfen (ca. 10 Min.).** Fünf Durchgänge, jeder mit nur einer Frage, immer in dieser Reihenfolge:
+   - **a) Verb:** Hauptsatz = Position 2 (auch nach „Zweitens“, „Zum Beispiel“, „Außerdem“). Nebensatz und Relativsatz = Verb am Ende.
+   - **b) Nomen:** Genus, Kasus, Plural, Adjektivendung. Nomen auf -ment sind meist sächlich. Fremdwörter: Plural mit -s.
+   - **c) Relativpronomen:** Präposition → Kasus, Bezugswort → Genus und Zahl.
+   - **d) Irreal und Tempus:** Irreal = Gegenteil der Wirklichkeit. „als“ für einmalige Vergangenheit, „wenn“ für Wiederholung. Reisen, kommen, gehen: Perfekt mit „sein“.
+   - **e) Wortwahl und Kommas:** Kollokationen prüfen (Position vertreten, Herausforderungen annehmen, Schwierigkeiten überwinden). Komma vor dass, als, wenn, aber, Relativsatz.
+- **Zusatz:** Satz für Satz laut lesen. Zwischen Schreiben und Prüfen kurz Abstand nehmen. Rohfassung und Endfassung aufbewahren, damit der Effekt der Prüfung messbar wird.
+
+**Bausteine (korrekt verwendet oder von mir korrigiert, zum Wiederverwenden)**
+- Ich wäre eher überzeugt, wenn der Autor … würde.
+- Einerseits …, andererseits …
+- Es gibt allerdings ein paar Dinge, auf die man achten sollte, …
+- Zusammenfassend lässt sich sagen, dass …
+- Das stimmt genau mit … überein.
+- … ein neues Alltagsleben und das Sprachenlernen gleichzeitig unter einen Hut zu bringen
+- Es besteht der Irrglaube, dass …
+- Eine neue Sprache zu lernen, ist heute leichter denn je.
+- In diesem Zusammenhang …
+
+**Belastungstreppe (Trainingsleiter).** Eine Stufe weiter, wenn etwa 90 Prozent der Strukturen auf der aktuellen Stufe richtig sind:
+1. Satzbau ohne eigene Ideen (Inhalte vorgegeben).
+2. Vorgegebene Ideen, eigene Formulierung (ein Absatz).
+3. Eigene Ideen mit Plan, Absatz mit 6 bis 8 Sätzen, Rohfassung und Endfassung.
+4. Freies Schreiben unter Zeitdruck (Prüfungsformat).
 
 ## Current resources and habits
 - Duolingo (low-level relative to B2 goal)
