@@ -1,51 +1,53 @@
 # Zeugniskarte Deutsch: Schreiben und Lesen
 
-> Wöchentlich aktualisiert. Zuletzt: 2026-10-20 · Ziel: Goethe-Zertifikat C1 (2027)
+> Wöchentlich aktualisiert. Zuletzt: 2026-10-28 · Ziel: Goethe-Zertifikat C1 (2027)
 > Hören und Sprechen sind noch nicht bewertet. Sie kommen dazu, sobald wir eine verlässliche Methode haben.
 
-## Aktuelle Woche: 2026-W43 (erste Karte, gilt als Ausgangswert)
+## Aktuelle Woche: 2026-W44
 
-![Zeugniskarte 2026-W43](GER_REPORTCARD_2026-W43.svg)
+![Zeugniskarte 2026-W44](GER_REPORTCARD_2026-W44.svg)
 
-| Teil | Dimension | Note | Lücke zu C1 | Belege |
-|---|---|---|---|---|
-| Schreiben | Aufgabenerfüllung & Argumentation | 2,5 | 0,5 | Position, Begründung, Beispiel und Gegenargument vorhanden. Die Antwort auf das Gegenargument blieb dünn. |
-| Schreiben | Kohärenz & Konnektoren | 2,4 | 0,6 | einerseits/andererseits, zwar…aber und nämlich korrekt. Übergänge teils noch holprig (sondern/stattdessen). |
-| Schreiben | Wortschatz & Ausdruck | 2,2 | 0,8 | Gute Spannweite (reizen, meistern, Irrglaube), aber Kollokationen mit Einfluss des Englischen und eigene Wortbildungen (Zeitaufwändigkeit, Weltvernetzung). |
-| Schreiben | Grammatik: Spannweite | 2,6 | 0,4 | Relativsätze, Infinitivsätze, Passiversatz (sich … lassen), Inversion nach Nebensatz. Nominalstil und Partizipialattribute noch ungeprüft. |
-| Schreiben | Grammatik: Genauigkeit | 1,8 | 1,2 | Artikel/Genus (11 Fälle), Verbstellung im dass-Satz (7), Konjunktiv II im wenn-Satz (2). Sinkt bei langen, abstrakten Sätzen. |
-| Lesen | Globalverstehen | 2,5 | 0,5 | Thema und Kernaussage beider Texte erfasst. Die These des zweiten Textes wurde leicht überzogen. |
-| Lesen | Detailverstehen | 2,2 | 0,8 | Begriffe wie Kulanz sicher. In Text 1 fehlten Begründung und Pointe, in Text 2 die tatsächliche Antwort auf das Gegenargument. |
-| Lesen | Nuancen & Argumentationsstruktur | 2,1 | 0,9 | Erkennt Argument und Gegenargument, benennt aber Wendepunkte und die Wertung des Textes noch nicht sicher. |
-| Lesen | Kritisches Lesen | 2,6 | 0,4 | Hat bemerkt, dass der Text das Schwierigkeits-Gegenargument nicht beantwortet, und fordert konkrete Belege. Wenig Daten. |
+| Teil | Dimension | Note | Δ zur Vorwoche | Lücke zu C1 | Belege (seit 2026-W43) |
+|---|---|---|---|---|---|
+| Schreiben | Aufgabenerfüllung & Argumentation | 2,5 | ±0 | 0,5 | Absatz mit Rollen (These, Grund, Beispiel, Gegenargument, Antwort, Fazit) vollständig und klar. Die Antwort auf das Gegenargument bleibt eine Verallgemeinerung ohne Beispiel. |
+| Schreiben | Kohärenz & Konnektoren | 2,5 | +0,1 | 0,5 | Klare Gliederung, rhetorische Frage, „Zusammenfassend …“ richtig. Nach „Zweitens“ und „Zum Beispiel“ rutscht das Verb noch. |
+| Schreiben | Wortschatz & Ausdruck | 2,3 | +0,1 | 0,7 | Redewendungen gut aufgenommen (auf die Palme bringen, aus der Haut fahren). Weiter Kollokationsfehler und falsche Freunde (Apotheke, engagieren, identifizieren). |
+| Schreiben | Grammatik: Spannweite | 2,7 | +0,1 | 0,3 | Partizip I frei gebildet („langsam laufende Menschen“), Relativsatz mit Präposition, Infinitivgruppe als Subjekt, Konjunktiv I in der indirekten Frage. In den Satzbau-Einheiten Partizipialattribute und indirekte Rede sicher. |
+| Schreiben | Grammatik: Genauigkeit | 1,9 | +0,1 | 1,1 | In freien Entwürfen weiter viele Fehler (Artikel, Reflexivität, Verbstellung). In Sätzen mit nur einem Risiko etwa 1 bis 2 Fehler pro Satz. Die Routine wirkt vor allem beim Teilen langer Sätze. |
+| Lesen | Globalverstehen | 2,4 | −0,1 | 0,6 | Thema und Aufbau beider Texte erfasst. Die These blieb im MeinBezirk-Kommentar unvollständig, im t3n-Text war sie überzogen. |
+| Lesen | Detailverstehen | 2,1 | −0,1 | 0,9 | Je ein Detailfehler pro Text (Wirtschaftsrat/Wissenschaftsrat; Leserbriefe statt „andere gefragt“). Antworten kamen aus dem Gedächtnis statt aus dem Text. |
+| Lesen | Nuancen & Argumentationsstruktur | 2,3 | +0,2 | 0,7 | Beide Wendepunkte („jedoch“) sicher gefunden. Ton aber falsch eingeordnet (polemisch statt selbstironisch), Zugeständnis nur halb erfasst. |
+| Lesen | Kritisches Lesen | 2,6 | ±0 | 0,4 | Fragt nach Belegen und Autorenperspektive. Verwechselt aber „subjektiv“ mit „polemisch“. |
 
-**Durchschnitt:** Schreiben 2,3 · Lesen 2,4 (beides oberes B2 mit Ansätzen von C1)
+**Durchschnitt:** Schreiben 2,4 (+0,1) · Lesen 2,4 (±0). Beides ist oberes B2 mit Ansätzen von C1.
+
+**Einordnung:** Alle Änderungen liegen innerhalb der Unsicherheit (±0,3). Auffällig ist nur das Muster: In Schreiben steigen die Werte leicht, vor allem Spannweite und Genauigkeit bei kurzen Sätzen. In Lesen bleibt Detailverstehen schwach, weil Antworten aus dem Gedächtnis kamen.
 
 ### Fokus-Empfehlung
-1. **Schreiben, Grammatik: Genauigkeit (Lücke 1,2).** Das ist die größte Lücke. Hebel: dass-Sätze beim Wiedergeben fremder Gedanken, Genus von Nomen auf -ment und von Fremdwörtern, Konjunktiv II im wenn-Satz. Methode: überarbeiten (Schreiben B), nicht pauken.
-2. **Lesen, Nuancen & Argumentationsstruktur (Lücke 0,9).** Bei jedem Text benennen: These, Gegenargument, Antwort des Textes darauf, Wertung des Autors.
+1. **Schreiben, Grammatik: Genauigkeit (Lücke 1,1).** Hebel: reflexive Verben, Endungen nach Possessivartikel und im Plural, Relativpronomen mit Präposition, „als“ nicht mit Verb an zweiter Stelle. Methode: Absatz-Routine mit Nachschlage-Durchgang, lange Sätze teilen, bei Infinitivgruppen den „es“-Platzhalter nutzen.
+2. **Lesen, Detailverstehen (Lücke 0,9).** Hebel: Vor jeder Antwort die Belegstelle im Text suchen und nicht aus dem Gedächtnis antworten. Danach prüfen, was der Autor wirklich sagt und was nur naheliegt. Dazu Ton genau benennen (subjektiv ist nicht polemisch).
 
 ### Ziele für die nächste Woche
-- Mindestens 1 Schreibaufgabe (A und B) und 1 Lesetext.
-- In der Schreibaufgabe sind mindestens 3 von 4 dass-Sätzen bzw. Konjunktiv-II-Sätzen korrekt.
-- Im Lesetext wird die Antwort des Textes auf sein Gegenargument korrekt benannt.
+- 1 Absatz mit Routine (Rohfassung und Endfassung inkl. Nachschlage-Durchgang). Ziel: höchstens 1 Fehler pro Satz in der Endfassung.
+- 1 Lesetext, jede Antwort mit Belegstelle.
+- 1 Satzbau-Runde zu Relativpronomen mit Präposition und reflexiven Verben.
 
 ## Verlauf
 Pro Woche kommt eine neue Spalte dazu. Ein Punkt (·) heißt: Wert aus der Vorwoche übernommen, weil keine neuen Daten vorlagen.
 
-| Dimension | 2026-W43 |
-|---|---|
-| Aufgabenerfüllung & Argumentation | 2,5 |
-| Kohärenz & Konnektoren | 2,4 |
-| Wortschatz & Ausdruck | 2,2 |
-| Grammatik: Spannweite | 2,6 |
-| Grammatik: Genauigkeit | 1,8 |
-| **Schreiben Ø** | **2,3** |
-| Globalverstehen | 2,5 |
-| Detailverstehen | 2,2 |
-| Nuancen & Argumentationsstruktur | 2,1 |
-| Kritisches Lesen | 2,6 |
-| **Lesen Ø** | **2,4** |
+| Dimension | 2026-W43 | 2026-W44 |
+|---|---|---|
+| Aufgabenerfüllung & Argumentation | 2,5 | 2,5 |
+| Kohärenz & Konnektoren | 2,4 | 2,5 |
+| Wortschatz & Ausdruck | 2,2 | 2,3 |
+| Grammatik: Spannweite | 2,6 | 2,7 |
+| Grammatik: Genauigkeit | 1,8 | 1,9 |
+| **Schreiben Ø** | **2,3** | **2,4** |
+| Globalverstehen | 2,5 | 2,4 |
+| Detailverstehen | 2,2 | 2,1 |
+| Nuancen & Argumentationsstruktur | 2,1 | 2,3 |
+| Kritisches Lesen | 2,6 | 2,6 |
+| **Lesen Ø** | **2,4** | **2,4** |
 
 ## Was die Niveaus bedeuten (Orientierung)
 | Dimension | B1 | B2 | C1 |
@@ -64,7 +66,7 @@ Pro Woche kommt eine neue Spalte dazu. Ein Punkt (·) heißt: Wert aus der Vorwo
 - **Skala:** 1,0 = solides B1 · 2,0 = solides B2 · 3,0 = sicheres C1 (prüfungsreif). Zwischenwerte bedeuten zum Beispiel: 2,5 = oberes B2 mit Ansätzen von C1. Die Zonen im Diagramm: unter 1,5 B1, 1,5 bis 2,5 B2, ab 2,5 C1-Bereich. Sicher ist C1 erst bei 3,0.
 - **Grundlage:** Die Dimensionen orientieren sich an den üblichen Prüfungskriterien (Aufgabenerfüllung, Kohärenz, Wortschatz, Grammatik), sind aber keine offiziellen Bewertungen.
 - **Gewichtung:** Alle Dimensionen zählen gleich. Der Durchschnitt je Teil ist das einfache Mittel.
-- **Datenbasis in Woche 43:** 3 Schreibtexte (Ausgangstext, Schreiben A, Schreiben B) und 2 Lesetexte. Das ist wenig.
+- **Datenbasis:** W43: 3 Schreibtexte, 2 Lesetexte. W44 kommt hinzu: Forumsbeitrag (A/B), Absatz (Rohfassung, Endfassung, Überarbeitung), 2 Satzbau-Einheiten, 2 Lesetexte (t3n und MeinBezirk). Das bleibt wenig.
 - **Unsicherheit:** etwa ±0,3. Veränderungen unter 0,3 sind Rauschen. Erst nach 3 bis 4 Wochen ist ein Trend verlässlich.
 - **Kalibrierung:** Die Noten sind die Einschätzung einer KI. Sobald wir einen Modelltest für Lesen mit Lösungsschlüssel haben, eichen wir die Lesen-Skala an dessen Ergebnis.
 

@@ -9,7 +9,7 @@
 - **Target:** C1 in 2027 (personal goal, no legal deadline)
 - **Exam chosen:** Goethe-Zertifikat C1
 - **Target exam date:** Not yet
-- **Report card:** see GER_REPORTCARD.md (first card: 2026-W43; next: W44)
+- **Report card:** see GER_REPORTCARD.md (latest: 2026-W44; Schreiben Ø 2,4, Lesen Ø 2,4)
 
 ## Baseline assessment (2026-10-16) with updates
 | Skill | Level | Notes |
